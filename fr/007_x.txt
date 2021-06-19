@@ -1,0 +1,6 @@
++1
+La touche x sert à effacer le caractère placé sous le curseur.
+Comme au bon vieux temps où on tapait des x à la machine
+à écrire pour barrer un mot.
+DDéplacezz le curseur à l'aaide des touchess hjkl, et efffacer les
+ccarrractères en troppp. 

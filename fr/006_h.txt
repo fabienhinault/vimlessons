@@ -1,0 +1,5 @@
+-c call cursor(2,5)
+*                     
+Pour aller à droite, c'est la touche h.
+Rejoignez * puis sortez.
+ 

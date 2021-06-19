@@ -1,0 +1,16 @@
++1
+Enfin vous allez pouvoir écrire du texte !
+La touche pour passer en mode insertion, qui permet d'insérer
+du texte, et dans lequel vim se comporte à peu près comme on
+l'attend d'un éditeur de texte, c'est la touche i.
+Attendez !
+Déplacer d'abord le curseur à la ligne suivante, écrivez ce
+que vous avez envie d'écrire, puis appuyez sur <Échap> pour
+sortir du mode d'insertion.
+
+Voilà. Une fois que vous êtes sorti du mode insertion, vous
+pouvez quitter l'éditeur de la façon habituelle.
+Vous avez oublié ?
+:q
+Répondez par l'affirmative à la question sur la sauvegarde.
+

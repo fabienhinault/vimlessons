@@ -1,0 +1,7 @@
++1
+Par défaut, les lettres du clavier ne servent pas à insérer du texte.
+La touche j sert à descendre d'une ligne dans le fichier.
+Aller jusqu'à l'étoile et sortez.
+
+*
+

@@ -1,0 +1,7 @@
++5
+* La touche k sert à remonter d'une ligne.
+Remontez le fichier à l'aide de k jusqu'à atteindre l'étoile,
+puis sortez.
+
+
+

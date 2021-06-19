@@ -1,0 +1,2 @@
+-c call cursor(2,5)
+Efffacer le f en trop en une seule lettre.

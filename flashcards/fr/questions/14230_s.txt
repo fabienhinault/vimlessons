@@ -1,0 +1,5 @@
+-c call cursor(2,13)
+C'est à lui à le faire.
+Remplacer "à" par "de" en utilisant une commande d'une lettre.
+(4 touches en tout)
+

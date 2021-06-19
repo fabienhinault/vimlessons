@@ -1,0 +1,6 @@
++1
+La première chose à savoir faire avec vim, c'est en sortir.
+La question "comment sortir de vim" est une question à haut score 
+sur stackoverflow.
+https://stackoverflow.com/questions/11828270/how-do-i-exit-the-vim-editor
+Pour sortir, tapez les deux caractères :q suivi de <Entrée>

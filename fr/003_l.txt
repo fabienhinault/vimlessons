@@ -1,0 +1,6 @@
++2
+      *
+Pour avancer le curseur vers la droite, c'est la touche l (L minuscule).
+Appuyer sur la touche l avec votre annulaire droite jusqu'à atteindre
+l'étoile, puis sortez (:q).
+

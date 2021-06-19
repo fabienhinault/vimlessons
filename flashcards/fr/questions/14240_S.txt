@@ -1,0 +1,5 @@
+-c call cursor(2,5)
+C'est ça qu'il fallait écrire.
+Remplacer la ligne 2 par "Pas du tout !" en utilisant une commande
+d'une lettre.
+

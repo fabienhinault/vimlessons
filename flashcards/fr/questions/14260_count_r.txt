@@ -1,0 +1,4 @@
+-c call cursor(2,12)
+Espèce de $%#&~§ø !
+Remplacez les 7 caractères de l'insulte par des '*'.
+
